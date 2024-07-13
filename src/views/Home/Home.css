@@ -1,0 +1,15 @@
+.news-article-card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.news-article-input{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 5px;
+}
