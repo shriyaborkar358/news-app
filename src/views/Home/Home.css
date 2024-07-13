@@ -1,3 +1,9 @@
+.news-heading{
+    text-align: center;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
 .news-article-card-container{
     display: flex;
     justify-content: space-around;
